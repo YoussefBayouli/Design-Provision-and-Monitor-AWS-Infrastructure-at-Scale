@@ -7,8 +7,6 @@ My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,70.2,842.
 My Estimate,US East (N. Virginia),S3 Standard,0,1150,13800.00,USD,S3 Standard storage (50000 GB per month)
 My Estimate,US East (N. Virginia),S3 Storage Management,0,0,0.00,USD,
 My Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD," Inbound (from: Not selected) 0 TB per month 
- Outbound (to: Not selected) 0 TB per month 
-"
 My Estimate,US East (N. Virginia),Elastic Load Balancing,0,746.43,8957.16,USD,Number of Application Load Balancers (1)
 
 
