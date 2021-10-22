@@ -1,4 +1,5 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+
 My Estimate,US East (N. Virginia),Amazon EC2,0,1967.55,23610.60,USD,"Operating system (Linux), Quantity (8), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB)"
 My Estimate,US East (N. Virginia),Amazon DocumentDB (with MongoDB compatibility),0,3667.6800000000003,44012.16,USD,"(2 instances)  db r5.2xlarge, I/Os (5000), Backup storage (50000 GB)"
 My Estimate,US East (N. Virginia),Amazon Route 53,0,757.5,9090.00,USD,"Hosted Zones (2), Basic Checks Within AWS (50), Number of Elastic Network Interfaces (2)"
