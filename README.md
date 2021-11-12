@@ -15,7 +15,13 @@ This project plans, designs, provisions, and monitors infrastructure in AWS usin
 **Design**
 
 - Part 1: Design Social Media Application for 50,000 Users
+![50000 Social media Users](https://user-images.githubusercontent.com/75679079/141436438-e505733b-eed6-4e7c-aff6-21fe11f57593.png)
+
+
 -  Part 2: Design Serverless Architecture for Developer
+![Serverless Architecture](https://user-images.githubusercontent.com/75679079/141436600-be240f82-8860-4175-9454-a0fa8ed36dad.png)
+
+
 
 
 **Provision**
