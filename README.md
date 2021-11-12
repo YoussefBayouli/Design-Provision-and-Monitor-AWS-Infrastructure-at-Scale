@@ -5,11 +5,11 @@ This project plans, designs, provisions, and monitors infrastructure in AWS usin
 
 **This Project consist of Three Parts**
 
-### Design The Infrastructure
+- Design The Infrastructure
 
-### Provisioning The Infrastructure
+- Provisioning The Infrastructure
 
-### Monitoring The Infrastructure
+- Monitoring The Infrastructure
 
 
 **Design**
